@@ -3,7 +3,7 @@
   "version": "1.2",
   "description": "Set timezone",
   "main": "index.js",
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "yarn@4.4.0",
   "engines": {
     "node": "22.3.0"
   },
