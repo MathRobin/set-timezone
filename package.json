@@ -1,6 +1,6 @@
 {
   "name": "timezone-action",
-  "version": "1.2",
+  "version": "1.3.0",
   "description": "Set timezone",
   "main": "index.js",
   "packageManager": "yarn@4.4.0",
